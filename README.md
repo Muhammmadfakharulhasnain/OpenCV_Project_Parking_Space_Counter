@@ -78,7 +78,6 @@ python main.py
 
 ![Example Output](https://via.placeholder.com/500)  
 (*Replace with an actual screenshot of your program in action.*)  
-
 ---
 
 ## **Future Improvements**  
