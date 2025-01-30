@@ -52,6 +52,8 @@ python main.py
 │   ├── video.mp4              # Input video file
 │-- carparkpos                 # Pickle file storing parking positions
 │-- main.py                     # Main script for processing video
+│-- positionfinder.py
+│-- make_rectangle.py                   
 │-- README.md                   # Project documentation
 ```
 
