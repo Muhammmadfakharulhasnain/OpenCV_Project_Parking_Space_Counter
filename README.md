@@ -1,7 +1,3 @@
-Here's a **README.md** file for your project. You can copy and paste this into your repository.  
-
----
-
 # **Parking Space Detection using OpenCV**  
 
 This project detects available parking spaces in a given video feed using **computer vision techniques** in OpenCV. It processes the video frame by frame, applies **image preprocessing**, and checks each parking space for occupancy based on pixel intensity.
@@ -93,8 +89,4 @@ python main.py
 ---
 
 ## **License**  
-This project is open-source under the **MIT License**. Feel free to use, modify, and contribute! 🚀  
-
----
-
-Would you like me to add **installation steps for Windows/Linux**, or improve anything else? 😊
+This project is open-source under the **MIT License**. Feel free to use, modify, and contribute! 
