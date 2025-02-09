@@ -76,9 +76,7 @@ python main.py
 🟩 **Green Rectangle** = Free  
 🟢 **Top-left counter** = Number of free spots  
 
-![Example Output](https://via.placeholder.com/500)  
-(*Replace with an actual screenshot of your program in action.*)  
----
+
 
 ## **Future Improvements**  
 ✅ Improve accuracy using **deep learning models** (YOLO, CNNs).  
